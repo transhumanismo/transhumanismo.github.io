@@ -1,0 +1,27 @@
+.landing, .button, .navbar-fixed-top, .menu a.active:after {
+	background-color: firebrick;
+}
+.index-container li a, .navbar-default .navbar-nav>li>a:active, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover, a, ul.nav li.dropdown:hover>a {
+	color: firebrick;
+}
+a:active, a:hover, .menu a:hover{
+	color: firebrick;	
+}
+ .tt-menu:before {
+ 	border-bottom-color: firebrick;
+ } 
+.paginationLink {
+	border-color: firebrick;
+}
+.paginationLink:hover {
+	background: firebrick;
+	border-color: firebrick;
+}
+.megamenu> li > ul > li.dropdown-header > a {
+  color: firebrick;
+  border-bottom-color: firebrick;
+}
+.menu a.active, .menu a.active:visited, .menu a.active:hover {
+	color: firebrick !important;
+	font-weight: normal !important;
+}
